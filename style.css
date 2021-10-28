@@ -1,0 +1,47 @@
+body{
+			background-image: url(.jpg);
+
+			
+      
+		}
+
+
+
+		h1{
+			color: #f01707;
+			
+	}
+	.content{
+		border: 5px solid black;
+		display: flex 1;
+		width: 350px;
+		padding: 10px;
+		color:blue;
+
+			
+			
+}
+.maincontent{
+
+	width: 95%;
+	padding: 20px;
+
+}
+
+
+			
+
+		}
+		form{
+			color: #c93a3a;
+		}
+		p{
+		color: 	#f70707;
+		}
+		
+		}
+		.pic{
+			flex-basis: 600px;
+			
+		}
+		
